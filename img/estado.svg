@@ -15,7 +15,7 @@
 	.st9{fill:#ff0000;}
 </style>
 <g id="lc">
-	<circle class="st9" cx="729.2" cy="191.1" r="27.1"/>
+	<circle class="st0" cx="729.2" cy="191.1" r="27.1"/>
 	<text transform="matrix(1 0 0 1 712.5064 200.7115)" class="st1 st2 st3">LC</text>
 </g>
 <g id="nt">
@@ -27,7 +27,7 @@
 	<text transform="matrix(1 0 0 1 557.9618 200.7115)" class="st1 st2 st3">VU</text>
 </g>
 <g id="en">
-	<circle class="st0" cx="500.1" cy="191.1" r="27.1"/>
+	<circle class="st9" cx="500.1" cy="191.1" r="27.1"/>
 	<text transform="matrix(1 0 0 1 481.8506 200.7115)" class="st1 st2 st3">EN</text>
 </g>
 <g id="cr">
